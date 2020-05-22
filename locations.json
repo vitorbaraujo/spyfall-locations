@@ -1,0 +1,33 @@
+{
+  "custom_locations": {
+  },
+  "selected_locations": {
+    "airplane": true,
+    "bank": true,
+    "beach": true,
+    "broadway_theater": true,
+    "casino": true,
+    "cathedral": true,
+    "circus_tent": true,
+    "corporate_party": true,
+    "crusader_army": true,
+    "day_spa": true,
+    "embassy": true,
+    "hospital": true,
+    "hotel": true,
+    "military_base": true,
+    "movie_studio": true,
+    "ocean_liner": true,
+    "passenger_train": true,
+    "pirate_ship": true,
+    "polar_station": true,
+    "police_station": true,
+    "restaurant": true,
+    "school": true,
+    "service_station": true,
+    "space_station": true,
+    "submarine": true,
+    "supermarket": true,
+    "university": true
+  }
+}
