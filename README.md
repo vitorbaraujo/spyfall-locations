@@ -5,7 +5,7 @@ This repository maintains a list of custom locations for the spyfall game: https
 ## Adding a new location
 
 To add a new location, follow these steps:
-- Create a object inside `custom_locations` with the key as the location identifier (you will use this later) and a dictionary with the location name and the roles.
+- Create a object inside `custom_locations` with the key as the location identifier (you will use this later) and an object with the location name and the roles.
 - Enable the location adding the location identifier to the list of selected locations
 
 The final result would be like this:
