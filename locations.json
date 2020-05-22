@@ -1,5 +1,18 @@
 {
   "custom_locations": {
+    "sample1": {
+      "name": "Sample 1",
+      "role1": "role 1",
+      "role2": "role 2",
+      "role3": "role 3",
+      "role4": "role 4",
+      "role5": "role 5",
+      "role6": "role 6",
+      "role7": "role 7",
+      "role8": "role 8",
+      "role9": "role 9",
+      "role10": "role 10"
+    }
   },
   "selected_locations": {
     "airplane": true,
@@ -28,6 +41,7 @@
     "space_station": true,
     "submarine": true,
     "supermarket": true,
-    "university": true
+    "university": true,
+    "sample1": false
   }
 }
